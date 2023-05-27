@@ -29,5 +29,183 @@
             "profile_picture": "profile2.jpg",
             "isBooked": true
         }
+    ],
+    "freelancers": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "hourly_rate": 25,
+            "profile_picture": "https://thumbs.dreamstime.com/z/writer-busy-digitalising-his-work-handwritten-notebook-to-laptop-young-caucasian-male-latest-novel-digital-format-modern-94090936.jpg",
+            "isBooked": true
+        },
+        {
+            "id": 2,
+            "name": "Jane",
+            "email": "jane@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": [
+                "Photoshop",
+                "Illustrator",
+                "adobe"
+            ],
+            "hourly_rate": "30",
+            "profile_picture": "https://thumbs.dreamstime.com/z/bearded-man-using-laptop-preparing-project-plan-sitting-table-his-modern-home-concentrated-writing-new-ideas-notepad-137085632.jpg",
+            "isBooked": false
+        },
+        {
+            "id": 3,
+            "name": "John Kumar",
+            "email": "johnkumar@example.com",
+            "password": "password",
+            "profession": "Student",
+            "skills": [
+                "React.js",
+                "Chakra",
+                "Typescript"
+            ],
+            "hourly_rate": 20,
+            "profile_picture": "https://thumbs.dreamstime.com/z/close-up-portrait-serious-young-businessman-sitting-using-tablet-computer-office-close-up-portrait-thinking-young-99301077.jpg",
+            "isBooked": false
+        },
+        {
+            "id": 4,
+            "name": "tan",
+            "email": "Pooja@example.com",
+            "password": "password",
+            "profession": "Graphic Designer",
+            "skills": [
+                "Photoshop",
+                "Illustrator"
+            ],
+            "hourly_rate": 27,
+            "profile_picture": "https://thumbs.dreamstime.com/b/friendly-adult-casual-dressed-business-woman-student-girl-standing-straight-headshot-portrait-office-183889444.jpg",
+            "isBooked": true
+        },
+        {
+            "id": 5,
+            "name": "roy",
+            "email": "Praveen@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": [
+                "Angular",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "hourly_rate": 50,
+            "profile_picture": "https://thumbs.dreamstime.com/z/casual-employee-bearded-serious-man-shirt-eyeglasses-sitting-window-front-camera-office-143437112.jpg",
+            "isBooked": false
+        },
+        {
+            "id": 6,
+            "name": "raea",
+            "email": "Smith@example.com",
+            "password": "password",
+            "profession": "Student",
+            "skills": [
+                "Photoshop",
+                "Illustrator"
+            ],
+            "hourly_rate": 40,
+            "profile_picture": "https://thumbs.dreamstime.com/z/casual-employee-bearded-serious-man-shirt-eyeglasses-sitting-window-front-camera-office-143437112.jpg",
+            "isBooked": true
+        },
+        {
+            "id": 7,
+            "name": "ktos",
+            "email": "john@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": [
+                "React.js",
+                "Material UI",
+                "Typescript"
+            ],
+            "hourly_rate": 60,
+            "profile_picture": "https://thumbs.dreamstime.com/z/european-business-man-working-project-portrait-attractive-modern-office-occupation-work-online-education-lifestyle-104598749.jpg",
+            "isBooked": false
+        },
+        {
+            "id": 8,
+            "name": "trr",
+            "email": "Smitha@example.com",
+            "password": "password",
+            "profession": "Graphic Designer",
+            "skills": [
+                "Photoshop",
+                "Illustrator"
+            ],
+            "hourly_rate": 75,
+            "profile_picture": "https://thumbs.dreamstime.com/b/young-business-woman-glasses-38456596.jpg",
+            "isBooked": true
+        },
+        {
+            "id": 9,
+            "name": "wer",
+            "email": "Deeksha@example.com",
+            "password": "password",
+            "profession": "Student",
+            "skills": [
+                "Photoshop",
+                "Illustrator"
+            ],
+            "hourly_rate": 55,
+            "profile_picture": "https://th.bing.com/th/id/OIP.lr49uNAvWSxrls42bXxToAAAAA?pid=ImgDet&w=210&h=365&rs=1",
+            "isBooked": true
+        },
+        {
+            "name": "ana",
+            "profile_picture": "https://thumbs.dreamstime.com/b/concept-career-prospective-female-employee-photo-blank-space-closeup-face-woman-employee-office-112460294.jpg",
+            "email": "ana@gmail.com",
+            "password": "123",
+            "profession": "Student",
+            "hourly_rate": "30",
+            "skills": [
+                "html",
+                "css",
+                "js"
+            ],
+            "isBooked": false,
+            "id": 10
+        },
+        {
+            "name": "kunjan",
+            "profile_picture": "https://th.bing.com/th/id/OIP.y0sS8fq5LwuX5XKVKx9rEQHaLb?pid=ImgDet&rs=1",
+            "email": "Kumar@gmail.com",
+            "password": "123",
+            "profession": "Web Developer",
+            "hourly_rate": "300",
+            "skills": [
+                "html",
+                "css",
+                "js"
+            ],
+            "isBooked": false,
+            "id": 11
+        },
+        {
+            "name": "Danush",
+            "profile_picture": "https://th.bing.com/th/id/OIP.fFzxKeNnI8IONFpM0nNPzAHaE8?pid=ImgDet&rs=1",
+            "email": "Danush@gmail.com",
+            "password": "Danush",
+            "profession": "Web Developer",
+            "hourly_rate": "80",
+            "skills": [
+                "cypress",
+                "java",
+                "typescript"
+            ],
+            "isBooked": false,
+            "id": 12
+        }
     ]
 }
