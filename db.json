@@ -33,7 +33,7 @@
     "freelancers": [
         {
             "id": 1,
-            "name": "John Doe",
+            "name": "Kunjan ballawar",
             "email": "john@example.com",
             "password": "password",
             "profession": "Web Developer",
@@ -43,12 +43,12 @@
                 "JavaScript"
             ],
             "hourly_rate": 25,
-            "profile_picture": "https://thumbs.dreamstime.com/z/writer-busy-digitalising-his-work-handwritten-notebook-to-laptop-young-caucasian-male-latest-novel-digital-format-modern-94090936.jpg",
+            "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "isBooked": true
         },
         {
             "id": 2,
-            "name": "Jane",
+            "name": "Kunjan ballawar",
             "email": "jane@example.com",
             "password": "password",
             "profession": "Web Developer",
@@ -58,12 +58,12 @@
                 "adobe"
             ],
             "hourly_rate": "30",
-            "profile_picture": "https://thumbs.dreamstime.com/z/bearded-man-using-laptop-preparing-project-plan-sitting-table-his-modern-home-concentrated-writing-new-ideas-notepad-137085632.jpg",
+             "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "isBooked": false
         },
         {
             "id": 3,
-            "name": "John Kumar",
+             "name": "Kunjan ballawar",
             "email": "johnkumar@example.com",
             "password": "password",
             "profession": "Student",
@@ -73,12 +73,12 @@
                 "Typescript"
             ],
             "hourly_rate": 20,
-            "profile_picture": "https://thumbs.dreamstime.com/z/close-up-portrait-serious-young-businessman-sitting-using-tablet-computer-office-close-up-portrait-thinking-young-99301077.jpg",
+            "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "isBooked": false
         },
         {
             "id": 4,
-            "name": "tan",
+             "name": "Kunjan ballawar",
             "email": "Pooja@example.com",
             "password": "password",
             "profession": "Graphic Designer",
@@ -87,12 +87,12 @@
                 "Illustrator"
             ],
             "hourly_rate": 27,
-            "profile_picture": "https://thumbs.dreamstime.com/b/friendly-adult-casual-dressed-business-woman-student-girl-standing-straight-headshot-portrait-office-183889444.jpg",
+            "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "isBooked": true
         },
         {
             "id": 5,
-            "name": "roy",
+             "name": "Kunjan ballawar",
             "email": "Praveen@example.com",
             "password": "password",
             "profession": "Web Developer",
@@ -102,12 +102,12 @@
                 "JavaScript"
             ],
             "hourly_rate": 50,
-            "profile_picture": "https://thumbs.dreamstime.com/z/casual-employee-bearded-serious-man-shirt-eyeglasses-sitting-window-front-camera-office-143437112.jpg",
+             "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "isBooked": false
         },
         {
             "id": 6,
-            "name": "raea",
+              "name": "Kunjan ballawar",
             "email": "Smith@example.com",
             "password": "password",
             "profession": "Student",
@@ -116,12 +116,12 @@
                 "Illustrator"
             ],
             "hourly_rate": 40,
-            "profile_picture": "https://thumbs.dreamstime.com/z/casual-employee-bearded-serious-man-shirt-eyeglasses-sitting-window-front-camera-office-143437112.jpg",
+            "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "isBooked": true
         },
         {
             "id": 7,
-            "name": "ktos",
+             "name": "Kunjan ballawar",
             "email": "john@example.com",
             "password": "password",
             "profession": "Web Developer",
@@ -131,12 +131,12 @@
                 "Typescript"
             ],
             "hourly_rate": 60,
-            "profile_picture": "https://thumbs.dreamstime.com/z/european-business-man-working-project-portrait-attractive-modern-office-occupation-work-online-education-lifestyle-104598749.jpg",
+            "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "isBooked": false
         },
         {
             "id": 8,
-            "name": "trr",
+              "name": "Kunjan ballawar",
             "email": "Smitha@example.com",
             "password": "password",
             "profession": "Graphic Designer",
@@ -145,12 +145,12 @@
                 "Illustrator"
             ],
             "hourly_rate": 75,
-            "profile_picture": "https://thumbs.dreamstime.com/b/young-business-woman-glasses-38456596.jpg",
+            "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "isBooked": true
         },
         {
             "id": 9,
-            "name": "wer",
+             "name": "Kunjan ballawar",
             "email": "Deeksha@example.com",
             "password": "password",
             "profession": "Student",
@@ -159,12 +159,12 @@
                 "Illustrator"
             ],
             "hourly_rate": 55,
-            "profile_picture": "https://th.bing.com/th/id/OIP.lr49uNAvWSxrls42bXxToAAAAA?pid=ImgDet&w=210&h=365&rs=1",
+             "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "isBooked": true
         },
         {
-            "name": "ana",
-            "profile_picture": "https://thumbs.dreamstime.com/b/concept-career-prospective-female-employee-photo-blank-space-closeup-face-woman-employee-office-112460294.jpg",
+               "name": "Kunjan ballawar",
+             "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "email": "ana@gmail.com",
             "password": "123",
             "profession": "Student",
@@ -178,8 +178,8 @@
             "id": 10
         },
         {
-            "name": "kunjan",
-            "profile_picture": "https://th.bing.com/th/id/OIP.y0sS8fq5LwuX5XKVKx9rEQHaLb?pid=ImgDet&rs=1",
+               "name": "Kunjan ballawar",
+            "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "email": "Kumar@gmail.com",
             "password": "123",
             "profession": "Web Developer",
@@ -193,8 +193,8 @@
             "id": 11
         },
         {
-            "name": "Danush",
-            "profile_picture": "https://th.bing.com/th/id/OIP.fFzxKeNnI8IONFpM0nNPzAHaE8?pid=ImgDet&rs=1",
+              "name": "Kunjan ballawar",
+             "profile_picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW1wbG95ZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
             "email": "Danush@gmail.com",
             "password": "Danush",
             "profession": "Web Developer",
